@@ -20,14 +20,11 @@ class amwp extends Student {
 	current_projects = [TebakGambar];
 		
 	constructor() {
-		super("Java, HTML, JS, CSS"); // My main language 
-		
-		// my insta @apip01____
+		super("Java, HTML, JS, CSS"); // My main language 	
 		this.comissions = true;
 	}   
 	
 	greet() {
 		return "hi";
-	
 ```
 ____
