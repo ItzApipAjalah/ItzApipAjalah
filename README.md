@@ -9,7 +9,7 @@
    Nama : Afif Medya
    Umur : 16
    Instagram : @apip01____
-   Website : https://pplgone.xyz
+   Website : pplgone.xyz
 ```
 ____
 
