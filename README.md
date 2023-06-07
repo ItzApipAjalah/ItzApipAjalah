@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Afif Medya👋
 
-<!--
-**ItzApipAjalah/ItzApipAjalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#
+<br />
+____
+> About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+class amwp extends Student {
+	pronouns = "he / him";
+	languages = [JS, Html, Java, PHP]; // order from most used to least
+	current_projects = [TebakGambar];
+		
+	constructor() {
+		super("Java, HTML, JS, CSS"); // My main language 
+		
+		// my insta @apip01____
+		this.comissions = true;
+	}   
+	
+	greet() {
+		return "hi";
+	
+```
+____
