@@ -5,11 +5,11 @@
 <br />
 > About Me
 
-```
+```js
    Nama : Afif Medya
    Umur : 16
-   Insta : [@apip01____](https://www.instagram.com/apip01____/)
-   Website : [PPLGONE](https://pplgone.xyz)
+   Instagram : @apip01____
+   Website : https://pplgone.xyz
 ```
 ____
 
