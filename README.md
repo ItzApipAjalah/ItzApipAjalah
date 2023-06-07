@@ -5,7 +5,7 @@
 <br />
 > About Me
 
-```js
+```
    Nama : Afif Medya
    Umur : 16
    Insta : [@apip01____](https://www.instagram.com/apip01____/)
