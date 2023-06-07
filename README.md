@@ -3,10 +3,15 @@
 
 #
 <br />
-
-____
-
 > About Me
+
+```js
+   Nama : Afif Medya
+   Umur : 16
+   Insta : [@apip01____](https://www.instagram.com/apip01____/)
+   Website : [PPLGONE](https://pplgone.xyz)
+```
+____
 
 ```java
 class amwp extends Student {
