@@ -17,7 +17,7 @@ ____
 ```java
 class amwp extends Student {
 	pronouns = "he / him";
-	languages = [JS, Html, Java, PHP]; // order from most used to least
+	languages = [JS, Html, Java, GD]; // order from most used to least
 	current_projects = [PocongBros];
 		
 	constructor() {
