@@ -18,10 +18,9 @@ ____
 class amwp extends Student {
 	pronouns = "he / him";
 	languages = [JS, Html, Java, GD]; // order from most used to least
-	current_projects = [PocongBros];
 		
 	constructor() {
-		super("Java, HTML, JS, CSS"); // My main language 	
+		super("Java, PHP, HTML, JS, CSS"); // My main language 	
 		this.comissions = true;
 	}   
 	
