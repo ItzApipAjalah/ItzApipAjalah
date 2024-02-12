@@ -12,8 +12,8 @@
    Age : 16
    Instagram : @apip01____
    Website : https://amwp.me
+   Linked : https://bit.ly/linkedinafifmedya
 ```
 
-||test||
 ____
 
