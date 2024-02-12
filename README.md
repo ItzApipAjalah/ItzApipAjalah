@@ -6,13 +6,12 @@
 
 > About Me
 
-____
 
 ```js
-   Nama : Afif Medya
-   Umur : 16
+   Name : Afif Medya
+   Age : 16
    Instagram : @apip01____
-   Website : pplgone.xyz
+   Website : https://amwp.me
 ```
 ____
 
