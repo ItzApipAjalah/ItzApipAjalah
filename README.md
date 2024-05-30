@@ -1,4 +1,4 @@
-
+<h1 align="center">👋 Hi, I’m Afif</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=0)](https://visitcount.itsvg.in)
 
