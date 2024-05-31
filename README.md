@@ -6,3 +6,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ItzApipAjalah&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzApipAjalah&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/481734993622728715)](https://discord.com/users/481734993622728715)
