@@ -42,6 +42,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzApipAjalah&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
+# 📊 Discord Status:
 <p align="center">
     <a href="https://discord.com/users/481734993622728715"><img src="https://lanyard.cnrad.dev/api/481734993622728715" alt="Discord Presence"></a>
 </p>
