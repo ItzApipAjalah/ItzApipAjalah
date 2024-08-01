@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-    <a href="https://discord.gg/medya_wishnu"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://discord.com/users/481734993622728715"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://instagram.com/apip01____"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://linkedin.com/in/afif-medya-5ba201267"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
