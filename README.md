@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I’m Afif Medya</h1>
 
-<p align="center">
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
-</p>
+
 
 
 ### Programming Languages:
@@ -56,5 +54,8 @@
     <a href="https://instagram.com/apip01____"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://linkedin.com/in/afif-medya-5ba201267"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
+<p align="center">
+    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
+    <a href="https://wakatime.com/@97589a96-d2aa-4856-8089-c8bbfd80be0e"><img src="https://wakatime.com/badge/user/97589a96-d2aa-4856-8089-c8bbfd80be0e.svg" alt="Total time coded since Aug 1 2024" /></a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
