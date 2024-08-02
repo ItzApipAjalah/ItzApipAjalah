@@ -49,6 +49,7 @@
 ## 
 <p align="center">
     <a href="https://discord.com/users/481734993622728715"><img src="https://lanyard.cnrad.dev/api/481734993622728715" alt="Discord Presence"></a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AMWP&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats">
 </p>
 <p align="center">
             <a href="https://discord.com/users/481734993622728715"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
