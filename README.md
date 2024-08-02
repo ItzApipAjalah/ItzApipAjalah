@@ -4,15 +4,6 @@
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
 </p>
 
----
-
-## 🌐 Connect with Me:
-<p>
-    <a href="https://discord.com/users/481734993622728715"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://instagram.com/apip01____"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://linkedin.com/in/afif-medya-5ba201267"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 ## 💻 Tech Stack:
 
 ### Programming Languages:
