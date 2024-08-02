@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Afif</h1>
+<h1 align="center">👋 Hi, I’m Afif Medya</h1>
 
 <p align="center">
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
