@@ -4,7 +4,7 @@
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
 </p>
 
-## 💻 Tech Stack:
+## 
 
 ### Programming Languages:
 <p>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-## 📊 GitHub Stats:
+## 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ItzApipAjalah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzApipAjalah&theme=dracula&hide_border=true" height="150" alt="GitHub Streak">
