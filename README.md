@@ -62,8 +62,3 @@
     <a href="https://discord.com/users/481734993622728715"><img src="https://lanyard.cnrad.dev/api/481734993622728715" alt="Discord Presence"></a>
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header">
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
