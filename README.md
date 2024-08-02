@@ -4,6 +4,7 @@
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
 </p>
 
+---
 
 ## 🌐 Connect with Me:
 <p>
@@ -48,21 +49,21 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ItzApipAjalah&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-</p>
-<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzApipAjalah&theme=dracula&hide_border=false" alt="GitHub Streak">
-</p>
-<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzApipAjalah&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 <br>
 
-<p>
+## 📊 Discord Status:
+<p align="center">
     <a href="https://discord.com/users/481734993622728715"><img src="https://lanyard.cnrad.dev/api/481734993622728715" alt="Discord Presence"></a>
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
