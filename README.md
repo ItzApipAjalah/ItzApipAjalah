@@ -48,7 +48,7 @@
 
 <br>
 
-## 📊 Discord Status:
+## 
 <p align="center">
     <a href="https://discord.com/users/481734993622728715"><img src="https://lanyard.cnrad.dev/api/481734993622728715" alt="Discord Presence"></a>
 </p>
