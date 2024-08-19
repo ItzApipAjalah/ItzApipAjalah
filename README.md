@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count" width="50%"></a>
+    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
     <a href="https://wakatime.com/@97589a96-d2aa-4856-8089-c8bbfd80be0e"><img src="https://wakatime.com/badge/user/97589a96-d2aa-4856-8089-c8bbfd80be0e.svg" alt="Total time coded since Aug 1 2024" /></a>
 </p>
 
 <p align="center">
-    <a><img src="https://github-profile-trophy.vercel.app/?username=ItzApipAjalah&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Trop"></a>
+    <a><img src="https://github-profile-trophy.vercel.app/?username=ItzApipAjalah&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Trop" width="50%"></a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
