@@ -4,7 +4,7 @@
 
 ## 📊 Discord Stats
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMWP&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMWP&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats"/>
 
   <a href="https://discord.com/users/481734993622728715"><img width="50%" src="https://lanyard-profile-readme.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak"></a>
 
