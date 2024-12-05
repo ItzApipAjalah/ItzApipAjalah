@@ -47,7 +47,7 @@
 <br>
 
 ## 
-<p align="left">
+<p align="center">
     <a href="https://discord.com/users/481734993622728715"><img width="30%" src="https://lanyard.cnrad.dev/api/481734993622728715?bg=1f1f1f" alt="Discord Presence"></a>
     <img width="30%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=AMWP&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats">
 </p>
