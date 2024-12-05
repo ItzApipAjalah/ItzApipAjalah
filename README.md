@@ -1,15 +1,5 @@
 <p>Hello👋, My name is Afif Medya Wishnu Putranto. I am a student with a great interest in technology and software development. I am currently learning various programming languages and frameworks such as Laravel and NextJS. Although I am still in the learning phase, I am enthusiastic about continuously improving my skills. </p>
 
-
-## 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ItzApipAjalah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" height="50" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzApipAjalah&theme=dracula&hide_border=true" height="50" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzApipAjalah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="50" alt="Top Languages">
-</p>
-
-<br>
-
 ## 
 <p align="center">
     <a href="https://discord.com/users/481734993622728715"><img width="50%" src="https://lanyard.cnrad.dev/api/481734993622728715?bg=1f1f1f" alt="Discord Presence"></a>
