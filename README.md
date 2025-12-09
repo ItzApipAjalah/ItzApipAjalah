@@ -69,6 +69,7 @@
 ###
 <h3 align="center">Project highlights 🏁</h2>
   <!-- First row !-->
+  <div align="center">
 <a href="https://rest.kotaklegend.my.id">
   <img width="400" height="225"src="https://i.ibb.co.com/HLPHssDR/Screenshot-114.jpg" />
 </a>
@@ -77,6 +78,7 @@
 </a>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzApipAjalah.ItzApipAjalah&"  />
+</div>
 </div>
 
 ###
