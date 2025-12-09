@@ -51,14 +51,12 @@
   </a>
 </div>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
   <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
   <img alt="pacman contribution graph" align="left" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
 </picture>
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31jhfjmw7ehy4q25tvuvb5c4clae">
