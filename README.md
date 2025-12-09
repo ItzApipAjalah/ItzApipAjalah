@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://steamcommunity.com/id/burung25/">
-        <img width="70%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
+        <img width="90%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
       </a>
     </td>
   </tr>
