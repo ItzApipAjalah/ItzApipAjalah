@@ -1,27 +1,68 @@
-<p>Hello👋, My name is Afif Medya Wishnu Putranto. I am a student with a great interest in technology and software development. I am currently learning various programming languages and frameworks such as Laravel and NextJS. Although I am still in the learning phase, I am enthusiastic about continuously improving my skills. </p>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-## 
+###
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMWP&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=actix" height="60" alt="actix logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="60" alt="unity logo"  />
+</div>
 
-  <a href="https://discord.com/users/481734993622728715"><img width="50%" src="https://lanyard-profile-readme.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak"></a>
+###
 
+<div align="center">
+  <a href="https://www.instagram.com/apip01____/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="481734993622728715" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="afifmedya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/afif-medya-5ba201267" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-<p align="left">
-    <a href="https://steamcommunity.com/id/burung25/"><img width="50%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="readme-typing-svg"></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
+  <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
+  <img alt="pacman contribution graph" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
+</picture>
 
-## 
-<p align="center">
-            <a href="https://discord.com/users/481734993622728715"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://instagram.com/apip01____"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://linkedin.com/in/afif-medya-5ba201267"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzApipAjalah.ItzApipAjalah&"  />
+</div>
 
-<p align="center">
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ItzApipAjalah&icon=0&color=6" alt="Visit Count"></a>
-    <a href="https://wakatime.com/@97589a96-d2aa-4856-8089-c8bbfd80be0e"><img src="https://wakatime.com/badge/user/97589a96-d2aa-4856-8089-c8bbfd80be0e.svg" alt="Total time coded since Aug 1 2024" /></a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
