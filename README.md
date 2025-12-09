@@ -49,6 +49,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+<div align="center">
+  <a href="https://discord.com/users/481734993622728715">
+    <img
+      width="50%"
+      src="https://lanyard-profile-readme.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak"
+      alt="Discord Status"
+    />
+  </a>
+</div>
 
 
 <picture>
