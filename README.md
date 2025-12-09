@@ -36,28 +36,24 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/apip01____/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://afifmedya.my.id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://afifmedya.my.id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/afif-medya-5ba201267" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://open.spotify.com/user/31jhfjmw7ehy4q25tvuvb5c4clae">
+        <img width="90%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jhfjmw7ehy4q25tvuvb5c4clae&count=5" alt="Spotify recently played" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://steamcommunity.com/id/burung25/">
+        <img width="70%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
-<div align="center">
-  <a href="https://discord.com/users/481734993622728715">
-    <img
-      width="20%"
-      src="https://lanyard-profile-readme.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak"
-      alt="Discord Status"
-    />
-  </a>
-</div>
+
 
 
 <picture>
