@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" width="50%">
       <a href="https://open.spotify.com/user/31jhfjmw7ehy4q25tvuvb5c4clae">
@@ -81,9 +81,10 @@
 
 <div align="center">
   <a href="https://discord.com/users/481734993622728715">
-    <img width="40%" src="https://lanyard-profile-readme-fork-amwp.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak" />
+    <img width="50%" src="https://lanyard-profile-readme.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak" />
   </a>
 </div>
+
 
 
 
