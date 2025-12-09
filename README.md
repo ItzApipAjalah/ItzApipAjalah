@@ -57,15 +57,21 @@
   <img alt="pacman contribution graph" align="left" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
 </picture>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://open.spotify.com/user/31jhfjmw7ehy4q25tvuvb5c4clae" style="flex: 1;">
-    <img width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jhfjmw7ehy4q25tvuvb5c4clae&count=5" alt="Spotify recently played" />
-  </a>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://open.spotify.com/user/31jhfjmw7ehy4q25tvuvb5c4clae">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jhfjmw7ehy4q25tvuvb5c4clae&count=5" alt="Spotify recently played" />
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://steamcommunity.com/id/burung25/">
+        <img src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://steamcommunity.com/id/burung25/" style="flex: 1; text-align: right;">
-    <img width="80%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
-  </a>
-</div>
 
 
 
