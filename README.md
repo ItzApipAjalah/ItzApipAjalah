@@ -53,7 +53,7 @@
 
 ###
 
-<picture align="right">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
   <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
   <img alt="pacman contribution graph" align="left" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
