@@ -81,7 +81,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/481734993622728715">
-    <img width="30%" src="https://lanyard-profile-readme-fork-amwp.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak" />
+    <img width="40%" src="https://lanyard-profile-readme-fork-amwp.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak" />
   </a>
 </div>
 
