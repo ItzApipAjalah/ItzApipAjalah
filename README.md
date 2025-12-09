@@ -75,12 +75,6 @@
 <a href="https://github.com/Kielx/AnyGrabber">
   <img width="400" height="225" src="https://github.com/Kielx/AnyGrabber/blob/c28d6ad28a4e9706c424c7a468858b84384b8c92/assets_readme/screenshot1.png"
 </a>
-<a href="https://github.com/Kielx/terminal-portfolio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=terminal-portfolio" />
-</a>
-<a href="https://github.com/Kielx/AnyGrabber">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=AnyGrabber" />
-</a>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzApipAjalah.ItzApipAjalah&"  />
 </div>
