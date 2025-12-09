@@ -67,16 +67,26 @@
 ###
 <h3 align="center">Project highlights 🏁</h2>
   <!-- First row !-->
-  <div align="center">
-<a href="https://rest.kotaklegend.my.id">
-  <img width="400" height="225"src="https://i.ibb.co.com/HLPHssDR/Screenshot-114.jpg" />
-</a>
-<a href="https://komikkuya.my.id">
-  <img width="400" height="225" src="https://i.ibb.co.com/xPwFgH0/Screenshot-112.jpg"
-</a>
+<div align="center">
+    <a href="https://rest.kotaklegend.my.id">
+      <img width="400" height="225"src="https://i.ibb.co.com/HLPHssDR/Screenshot-114.jpg" />
+    </a>
+    <a href="https://komikkuya.my.id">
+      <img width="400" height="225" src="https://i.ibb.co.com/xPwFgH0/Screenshot-112.jpg"
+    </a>
+</div>
+   <!-- Second row !-->
+<div align="center">
+    <a href="https://afifmedya.my.id">
+      <img width="400" height="225"src="https://i.ibb.co.com/Q7rRpM42/Screenshot-115.jpg" />
+    </a>
+    <a href="https://donghua.afifmedya.my.id/">
+      <img width="400" height="225" src="https://i.ibb.co.com/JWkwsMbj/Screenshot-113.jpg"
+    </a>
+</div>
+  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzApipAjalah.ItzApipAjalah&"  />
-</div>
 </div>
 
 ###
