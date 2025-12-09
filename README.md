@@ -69,11 +69,11 @@
 ###
 <h3 align="center">Project highlights 🏁</h2>
   <!-- First row !-->
-<a href="https://pantak.net">
-  <img width="400" height="225"src="https://github.com/Kielx/terminal-portfolio/blob/master/static/portfolioss1600x900.png?raw=true" />
+<a href="https://rest.kotaklegend.my.id">
+  <img width="400" height="225"src="https://i.ibb.co.com/HLPHssDR/Screenshot-114.jpg" />
 </a>
-<a href="https://github.com/Kielx/AnyGrabber">
-  <img width="400" height="225" src="https://github.com/Kielx/AnyGrabber/blob/c28d6ad28a4e9706c424c7a468858b84384b8c92/assets_readme/screenshot1.png"
+<a href="https://komikkuya.my.id">
+  <img width="400" height="225" src="https://i.ibb.co.com/xPwFgH0/Screenshot-112.jpg"
 </a>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzApipAjalah.ItzApipAjalah&"  />
