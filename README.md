@@ -62,20 +62,25 @@
   <img alt="pacman contribution graph" align="left" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
 </picture>
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="left" width="50%">
+    <td align="center" width="50%">
       <a href="https://open.spotify.com/user/31jhfjmw7ehy4q25tvuvb5c4clae">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jhfjmw7ehy4q25tvuvb5c4clae&count=5" alt="Spotify recently played" />
+        <img width="90%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jhfjmw7ehy4q25tvuvb5c4clae&count=5" alt="Spotify recently played" />
       </a>
     </td>
-    <td align="right" width="50%">
+    <td align="center" width="50%">
       <a href="https://steamcommunity.com/id/burung25/">
-        <img src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
+        <img width="70%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="Steam stats" />
       </a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 
