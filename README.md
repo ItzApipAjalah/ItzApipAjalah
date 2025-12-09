@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 <p align="center">Hello👋, My name is Afif Medya Wishnu Putranto. I am a student with a great interest in technology and software development. I am currently learning various programming languages and frameworks such as Laravel and NextJS. Although I am still in the learning phase, I am enthusiastic about continuously improving my skills. </p>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
