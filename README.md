@@ -56,7 +56,7 @@
 <picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
   <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me/?username=ItzApipAjalah">
-  <img alt="pacman contribution graph" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
+  <img alt="pacman contribution graph" align="left" src="https://pacman.abozanona.me/?username=ItzApipAjalah">
 </picture>
 <p align="left">
     <a href="https://steamcommunity.com/id/burung25/"><img width="50%" src="https://steam-stat.vercel.app/api?profileName=burung25" alt="readme-typing-svg"></a></p>
