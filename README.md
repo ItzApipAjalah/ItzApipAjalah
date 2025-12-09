@@ -52,7 +52,7 @@
 <div align="center">
   <a href="https://discord.com/users/481734993622728715">
     <img
-      width="50%"
+      width="20%"
       src="https://lanyard-profile-readme.vercel.app/api/481734993622728715?theme=dark&bg=080614&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Berak"
       alt="Discord Status"
     />
