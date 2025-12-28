@@ -99,7 +99,16 @@
 
 ###
 <h3 align="center">Project highlights 🏁</h2>
-  <!-- First row !-->
+  <!-- 1 row !-->
+<div align="center">
+    <a href="https://steam.kotaklegend.my.id">
+      <img width="400" height="225"src="https://raw.githubusercontent.com/ItzApipAjalah/SteamKotakLegends-Web/refs/heads/main/public/preview-main.png" />
+    </a>
+    <a href="https://steam.kotaklegend.my.id">
+      <img width="400" height="225" src="https://raw.githubusercontent.com/ItzApipAjalah/SteamKotakLegends-Web/refs/heads/main/public/web-preview.png"
+    </a>
+</div>
+  <!-- 2 row !-->
 <div align="center">
     <a href="https://rest.kotaklegend.my.id">
       <img width="400" height="225"src="https://i.ibb.co.com/HLPHssDR/Screenshot-114.jpg" />
@@ -108,7 +117,7 @@
       <img width="400" height="225" src="https://i.ibb.co.com/xPwFgH0/Screenshot-112.jpg"
     </a>
 </div>
-   <!-- Second row !-->
+   <!-- 3 row !-->
 <div align="center">
     <a href="https://afifmedya.my.id">
       <img width="400" height="225"src="https://i.ibb.co.com/Q7rRpM42/Screenshot-115.jpg" />
