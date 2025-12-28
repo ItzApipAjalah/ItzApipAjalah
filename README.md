@@ -105,7 +105,7 @@
       <img width="400" height="225"src="https://raw.githubusercontent.com/ItzApipAjalah/SteamKotakLegends-Web/refs/heads/main/public/preview-main.png" />
     </a>
     <a href="https://steam.kotaklegend.my.id">
-      <img width="400" height="225" src="github.com/ItzApipAjalah/SteamKotakLegends-Web/blob/main/public/web-preview.png?raw=true"
+      <img width="400" height="225" src="https://raw.githubusercontent.com/ItzApipAjalah/SteamKotakLegends-Web/refs/heads/main/public/web-preview.png"
     </a>
 </div>
   <!-- 2 row !-->
