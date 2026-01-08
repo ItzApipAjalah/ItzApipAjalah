@@ -111,10 +111,10 @@
   <!-- 2 row !-->
 <div align="center">
     <a href="https://rest.kotaklegend.my.id">
-      <img width="400" height="225"src="https://i.ibb.co.com/HLPHssDR/Screenshot-114.jpg" />
+      <img width="400" height="225"src="https://raw.githubusercontent.com/ItzApipAjalah/ItzApipAjalah/refs/heads/main/image/restapi.png" />
     </a>
     <a href="https://komikkuya.my.id">
-      <img width="400" height="225" src="https://i.ibb.co.com/xPwFgH0/Screenshot-112.jpg"
+      <img width="400" height="225" src="https://raw.githubusercontent.com/ItzApipAjalah/ItzApipAjalah/refs/heads/main/image/komikkuya.png"
     </a>
 </div>
    <!-- 3 row !-->
